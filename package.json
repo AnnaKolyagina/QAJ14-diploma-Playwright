@@ -1,0 +1,23 @@
+{
+  "name": "qaj14-diploma-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaKolyagina/QAJ14-diploma-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaKolyagina/QAJ14-diploma-Playwright/issues"
+  },
+  "homepage": "https://github.com/AnnaKolyagina/QAJ14-diploma-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
